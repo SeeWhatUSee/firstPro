@@ -20,5 +20,8 @@ public class GitTest{
 	public String toString(){
 		print('git beautful');
 	}
+	public String toString2(){
+		print('git beautful2');
+	}
 
 }
