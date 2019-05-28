@@ -9,12 +9,16 @@ public class GitTest{
 		this.operation = operation;
 	}
 	public String getOperation(){
-		return this.operation
+		return this.operation;
 	}
 	public void setUserName(String userName){
 		this.userName = userName;
 	}
 	public String getUserName(){
-		return this.userName
+		return this.userName;
 	}
+	public String toString(){
+		print('git beautful');
+	}
+
 }
